@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+<style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+    <item name="colorPrimary">#D50606</item>
+    <item name="colorPrimaryDark">#B60303</item>
+    <item name="colorAccent">@color/red</item>
+</style>
+
+</resources>

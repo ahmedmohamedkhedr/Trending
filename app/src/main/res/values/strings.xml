@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trending</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="saves">Saves</string>
+    <string name="categories_database" translatable="false">categories.db</string>
+    <string name="video" translatable="false">video</string>
+    <string name="watching">Watching...</string>
+    <string name="videos_database" translatable="false">videos.db</string>
+
+</resources>
